@@ -32,3 +32,7 @@ coverage.xml
 *.cover
 htmlcov/
 pytest-coverage.*
+
+# folder
+data/
+*.pth
