@@ -1,0 +1,35 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.14.4
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Pil Seong Yang
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: ''
+codecov_graph_token: '[REPLACE_ME]'
+copyright_year: 2024
+documentaion_tool: jupyter-book
+documentation_url: https://ypilseong.github.io/fake-review-detection
+email: lal4995@gmail.com
+favicon_path: ''
+friendly_name: fake-review-detection
+github_repo_name: fake-review-detection
+github_username: ypilseong
+google_analytics_id: ''
+logo_path: ''
+main_branch: main
+open_link: false
+package_name: fake_review_detection
+package_scripts:
+- fake_review_detection = 'fake_review_detection.__cli__:main'
+poe_task_files:
+- .tasks.toml
+- .tasks-extra.toml
+project_description: ''
+project_license: MIT
+project_name: fake-review-detection
+project_short_description: ''
+upload_to_release: true
+upload_to_repository: true
+use_launch_buttons: false
+use_source_code_skeleton: true
+

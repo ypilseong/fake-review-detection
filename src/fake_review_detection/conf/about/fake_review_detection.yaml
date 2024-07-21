@@ -1,0 +1,6 @@
+_open_link_: False
+name: "fake-review-detection"
+authors: "Pil Seong Yang <lal4995@gmail.com>"
+description: ""
+homepage: "https://ypilseong.github.io/fake-review-detection"
+license: "MIT"
