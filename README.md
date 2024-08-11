@@ -59,6 +59,11 @@ The models were evaluated using various metrics, with the following results:
 
 - **SVM Model:** Different configurations, including basic metadata, location data, textual features, and image analysis features, were tested. The inclusion of textual features from `text-embedding-3-large` and image analysis yielded the highest accuracy and F1 Score.
 
+## Project Documentation
+
+For detailed information, please refer to the research poster:
+[![PilseongYang_research_poster_update](https://github.com/user-attachments/assets/ed0d334c-06d6-4791-b499-6b57a9b397c4)](https://github.com/user-attachments/assets/ed0d334c-06d6-4791-b499-6b57a9b397c4)
+
 ## Changelog
 
 See the [CHANGELOG] for more information.
